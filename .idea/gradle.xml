@@ -10,8 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/MyVisualsComponents" />
-            <option value="$PROJECT_DIR$/MyVisualsTemplates" />
+            <option value="$PROJECT_DIR$/CommonsCore" />
+            <option value="$PROJECT_DIR$/CommonsCore/MyVisualsComponents" />
+            <option value="$PROJECT_DIR$/CommonsCore/MyVisualsTemplates" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

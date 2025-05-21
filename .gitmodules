@@ -1,0 +1,3 @@
+[submodule "CommonsCore"]
+	path = CommonsCore
+	url = https://github.com/ingeniusapp/CommonsCore.git

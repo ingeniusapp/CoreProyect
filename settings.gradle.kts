@@ -21,5 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "CoreProyect"
 include(":app")
-include(":MyVisualsComponents")
-include(":MyVisualsTemplates")
+include(":CommonsCore:MyVisualsComponents")
+include(":CommonsCore:MyVisualsTemplates")
